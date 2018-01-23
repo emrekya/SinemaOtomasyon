@@ -35,7 +35,6 @@ CREATE DEFINER=`root`@`localhost` PROCEDURE `yenikullanicikayit` (IN `adi` VARCH
 END$$
 
 DELIMITER ;
-
 -- --------------------------------------------------------
 
 --
