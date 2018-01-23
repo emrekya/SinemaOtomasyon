@@ -21,8 +21,8 @@ SET time_zone = "+00:00";
 --
 -- Veritabanı: `sinemaotomasyon`
 --
-CREATE DATABASE IF NOT EXISTS `sinemaotomasyon` DEFAULT CHARACTER SET utf8 COLLATE utf8_turkish_ci;
-USE `sinemaotomasyon`;
+CREATE DATABASE IF NOT EXISTS `sinemadb` DEFAULT CHARACTER SET utf8 COLLATE utf8_turkish_ci;
+USE `sinemadb`;
 
 DELIMITER $$
 --
